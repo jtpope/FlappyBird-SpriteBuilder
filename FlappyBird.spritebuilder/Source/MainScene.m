@@ -72,7 +72,7 @@
 	
 	//Note that the bush ratio is larger than the cloud
 	
-	_bushParallaxRatio = ccp(0.9,1);
+	_bushParallaxRatio = ccp(10.9,1);
 	_cloudParallaxRatio = ccp(0.2,1);
 	
 	for (CCNode *bush in _bushes) {
